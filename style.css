@@ -1,0 +1,65 @@
+.main{
+	padding-bottom: 150px;
+}
+
+#logo{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 200px;
+	width: 269px;
+	height: 95px;
+}	
+
+.input{
+	width: 550px;
+	height: 74px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#input{
+	margin-top: 15px;
+	padding: 0px;
+	height: 25px;
+	width: 100%;
+}
+
+.buttons{
+	margin-top: -10px;
+}
+
+.nav{
+	
+	
+}
+a{
+	text-decoration: none;
+	color: black;
+	display: inline-block;
+	font-size: 13px;
+}
+
+.img{
+	text-align: right;
+}
+
+.gmail{
+	text-align: right;
+}
+
+.gplus{
+	text-align: right;
+}
+
+.menu{
+	background-image: url("https://ssl.gstatic.com/gb/images/i1_71651352.png");
+
+}
+
+.footer{
+	background: none repeat scroll 0% 0% #F2F2F2;
+	border-top: 1px solid #E4E4E4;
+	min-width: 980px;
+	line-height: 40px;
+}
