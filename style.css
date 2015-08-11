@@ -34,6 +34,10 @@ li{
     margin-right: 10px;
 }
 
+li.f-label{
+	margin-right: 35px;
+}
+
 .f-left{
 	float: left;
 	margin: 0;
@@ -125,3 +129,4 @@ a{
 	line-height: 40px;
 	
 }
+
