@@ -70,7 +70,9 @@ li{
 	margin-top: -10px;
 
 }
-
+.tbImages{
+	margin-top: 6px;
+}
 
 .nav{
 	
@@ -79,6 +81,8 @@ li{
   left: 0;
   width: 100%;
   height: 50px;
+  margin-top: 10px;
+  margin-left: -10px;
 }
 a{
 	text-decoration: none;
@@ -89,6 +93,12 @@ a{
 
 .img{
 	text-align: right;
+}
+
+.userPhoto{
+	border-radius: 50%;
+    width: 33px;
+    height: auto;
 }
 
 .gmail{
